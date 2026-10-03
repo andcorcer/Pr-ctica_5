@@ -1,2 +1,17 @@
-# Pr-ctica_5
-Repositorio de la 5ta practica de Programación Orientada a Objetos del grupo 7 del semestre 2027-1
+# Practica_5
+
+**Asignatura**: Programación Orientada a Objetos (Grupo 07)  
+
+**Institución:** Facultad de Ingeniería, UNAM — Laboratorio de Computación  
+
+**Profesor:** René Adrián Dávila Pérez  
+
+**Semestre:** 3º (Semestre 2027-1)  
+
+**Fecha de Entrega:** 2 Octubre 2026  
+
+**Brigada:** 6  
+
+Link a archivo LaTeX ``
+
+Link a video ``
